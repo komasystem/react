@@ -19,9 +19,9 @@ export default function App() {
                 </section>
 
                 <section>
-                    <h3>sw</h3>
-                    <Button>Подход</Button>
-                    <Button>Темп</Button>
+                    <h3>swdd</h3>
+                    <Button>Поdewdwдход</Button>
+                    <Button>Теdwdмп</Button>
                 </section>
             </main>
         </div>
