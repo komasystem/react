@@ -19,7 +19,7 @@ export default function App() {
                 </section>
 
                 <section>
-                    <h3>dmwkdmwldklMDODMK</h3>
+                    <h3>sw</h3>
                     <Button>Подход</Button>
                     <Button>Темп</Button>
                 </section>
